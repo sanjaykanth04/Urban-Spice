@@ -1,0 +1,6 @@
+{
+  "name": "Urban Spice",
+  "description": "A modern, premium Indian restaurant offering authentic flavors, handcrafted dishes, and unforgettable dining experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
